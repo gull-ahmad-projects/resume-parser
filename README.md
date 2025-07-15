@@ -12,22 +12,19 @@ AI Resume Parser that extracts candidate data using spaCy and PDF parsers with a
  pandas, openpyxl, json
  docx2txt, pdfplumber for file reading
 
- # AI Resume Parser 🧠📄
+ # AI Resume Parser 📄
 
  An intelligent resume parser built in Python using spaCy and regex. It extracts key information like Name, Email, Skills, and Experience from PDF and DOCX resumes.
 
- ## 🔧 Features:
+ ##  Features:
  - PDF & DOCX support
         - GUI for file upload
         - JSON & Excel output
         - NER with spaCy
         
-        ## 🛠️ Tech Stack:
+        ## Tech Stack:
         Python, spaCy, pdfplumber, docx, tkinter, pandas
         
-        ## 💻 Screenshot:
-        ![screenshot](screenshot.png)
-        
-        ## 🚀 How to Run:
+        ##  How to Run:
         ```bash
         python resume_parser.py
